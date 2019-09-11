@@ -22,7 +22,7 @@ export PATH=$PATH:$MAVEN_HOME/bin
 在任意路径下执行mvn -version验证命令是否有效。
 正常结果如下，能够看到当前maven及jdk版本。
 
-![Image text](https://github.com/davinx594/image/blob/master/linux1.png）
+![Image text](https://raw.githubusercontent.com/davinx594/image/master/linux1.png)
 
 # maven常见命令解析
 ## 1）把本地jar安装到maven本地仓库中：
